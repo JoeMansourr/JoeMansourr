@@ -1,5 +1,5 @@
 # About Me:
-I'm Joe, a 21-year-old IT enthusiast who enjoys learning new things. I work for a firm as a Web Developer, and I have expertise with MSSQL Server and ASP.NET
+My name is Joe, and I'm a 21-year-old information technology enthusiast that enjoys learning new things. I work for a company as a Web Developer and am experienced in MSSQL Server, SAP Crystal Reports, and ASP.NET. I also have some expertise building projects with the MERN stack, as well as PHP and MySQL.
 
 
 ## 🌐 Socials:
