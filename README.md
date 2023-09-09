@@ -1,5 +1,5 @@
 # About Me:
-My name is Joe, and I'm a 22-year-old information technology enthusiast that enjoys learning new things. I work for a company as a Web Developer and am experienced in MSSQL Server, SAP Crystal Reports, and ASP.NET. I also have some expertise building projects with the MERN stack, as well as PHP and MySQL.
+I'm a dedicated web developer with a passion for crafting user-friendly digital experiences. Over the years, I've had the privilege of working on a variety of web projects, from dynamic web applications to responsive websites. My experience spans different technologies and frameworks, allowing me to adapt to various development environments. I take pride in my ability to collaborate effectively with cross-functional teams, turning ideas into functional, efficient, and elegant solutions. Always eager to learn and stay up-to-date with industry trends, I'm committed to delivering high-quality work that meets both user needs and business goals.
 
 
 ## 🌐 Socials:
