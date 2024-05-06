@@ -14,7 +14,7 @@
 
 ###
 
-![Languages](https://skillicons.dev/icons?i=javascript,typescript,angular,react,nextjs,nodejs,dotnet,docker,kubernetes,git,github,mongodb)]
+![Languages](https://skillicons.dev/icons?i=javascript,typescript,angular,react,nextjs,nodejs,dotnet,docker,kubernetes,git,github,mongodb)
 
 ###
 
